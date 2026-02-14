@@ -20,6 +20,7 @@ This repository currently focuses on the forecasting layer. The grid balancing e
 ---
 
 ## Repository Structure
+
 PVgridBalancer/
 │
 ├── data/preprocessed/
